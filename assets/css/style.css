@@ -318,6 +318,13 @@ input {
 	background-color: #d4af37;
 }
 
+input.btn.btn-form{
+	-webkit-appearance: none;
+	-webkit-border-radius:none;
+	-moz-appearance: none;
+	appearance: none;
+}
+
 /*pakeiciame placeholder teksto spalva*/
 .input-row input::-webkit-input-placeholder,
 .input-row input:-ms-input-placeholder,
