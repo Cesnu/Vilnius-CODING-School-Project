@@ -6,10 +6,10 @@ let burger = document.querySelector(".menu");
 
 // parasom ivykio stebetoja ant BURGER
 
-burger.addEventListener("click", function(){
+burger.addEventListener("click", function(event){
     let meniu = document.querySelector(".nav-menu");
     meniu.classList.toggle("show");
-// event.preventDefault();
+    event.preventDefault();
 });
 
 
