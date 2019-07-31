@@ -38,10 +38,10 @@ h1{
 
 .box-shadow{
 	width: 200px;
-    height: 120px;
-    border-radius: 50%;
-    background-color: transparent;
-    position: absolute;
+	height: 120px;
+	border-radius: 50%;
+	background-color: transparent;
+	position: absolute;
 	top: 70%;
 	bottom: auto;
 	left: 62.5%;
@@ -52,10 +52,10 @@ h1{
 .box-shadow:hover{
 	background-color: #FDF79D;
 	box-shadow:
-    0 0 60px 40px #FDF79D,
-    0 0 100px 60px #FDF79D,
-    0 0 140px 90px #F3CF59;
-    position: absolute;
+	0 0 60px 40px #FDF79D,
+	0 0 100px 60px #FDF79D,
+	0 0 140px 90px #F3CF59;
+	position: absolute;
 	top: 70%;
 	bottom: auto;
 	left: 62.5%;
